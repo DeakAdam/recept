@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Gulyásleves",
+    "category": "leves",
+    "time": 90,
+    "difficulty": "közepes",
+    "portion": 4
+  },
+  {
+    "id": 2,
+    "name": "Tiramisu",
+    "category": "desszert",
+    "time": 30,
+    "difficulty": "könnyű",
+    "portion": 6
+  },
+  {
+    
+        "id" : 3,
+        "name" : "Rántott hús",
+        "category" : "főétel",
+        "time" : 45,
+        "difficulty": "közepes",
+        "portion": 4
+    
+  }
+]
