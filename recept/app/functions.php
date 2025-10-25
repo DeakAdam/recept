@@ -1,7 +1,7 @@
 <?php
 function get_all_recipes(): array
 {
-    $json_file = __DIR__ . '/../data/recipes.json';
+    $json_file = __DIR__ . '/recipes.json';
 
     $json_content = file_get_contents($json_file);
     $recipes = json_decode($json_content, true);
